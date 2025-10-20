@@ -27,6 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Myasoko/Telegram-Weather-Bot.git",
+    "accountId": "960fd9a9-e7ef-431a-834d-236324b93c0d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -91,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760892821797</updated>
       <workItem from="1760892825397" duration="3433000" />
-      <workItem from="1760969396086" duration="7680000" />
+      <workItem from="1760969396086" duration="7996000" />
     </task>
     <servers />
   </component>
